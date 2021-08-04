@@ -7,7 +7,8 @@
       </head>
       <body>
         <h1>belajar web</h1>
-        <p>Halo</P>
+        <a target="_blank" rel="noreferrer" class="chakra-link css-1jebhn" href="https://www.linkedin.com/in/junius-daniel-29b1ab1b4/"><p class="chakra-text css-1a3darr">LinkedIn</p></a>
+        <a target="_blank rel="noreferrer" class="chakra-limk css-1jebhn" hreff="https://myaccount.google.com/?utm_source=OGB&tab=mk&utm_medium=act&pli=1&gar=1/"><p class="chakra-text css-1a3darr">Gmailaaaaaaaaaaaaaaaa</p></a>
       </body>
     </html>
       
